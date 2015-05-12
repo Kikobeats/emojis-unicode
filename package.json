@@ -2,7 +2,7 @@
   "name": "emojis-unicode",
   "description": "Complete list of standard Unicode codes that represent emojis",
   "homepage": "https://github.com/Kikobeats/emojis-unicode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./index.js",
   "author": {
     "name": "Kiko Beats",
@@ -13,12 +13,11 @@
   "bugs": {
     "url": "https://github.com/Kikobeats/emojis-unicode/issues"
   },
-  "keywords": ["emoji", "keywords", "unicode"],
-  "devDependencies": {
-    "acho": "*",
-    "download": "*",
-    "tmp": "*"
-  },
+  "keywords": [
+    "emoji",
+    "keywords",
+    "unicode"
+  ],
   "devDependencies": {},
   "engines": {
     "node": ">= 0.10.0",
