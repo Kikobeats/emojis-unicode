@@ -1,5 +1,7 @@
 # emojis-unicode
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/emojis-unicode.svg)](https://greenkeeper.io/)
+
 [![Dependency status](http://img.shields.io/david/Kikobeats/emojis-unicode.svg?style=flat-square)](https://david-dm.org/Kikobeats/emojis-unicode)
 [![Dev Dependencies Status](http://img.shields.io/david/dev/Kikobeats/emojis-unicode.svg?style=flat-square)](https://david-dm.org/Kikobeats/emojis-unicode#info=devDependencies)
 [![NPM Status](http://img.shields.io/npm/dm/emojis-unicode.svg?style=flat-square)](https://www.npmjs.org/package/emojis-unicode)
