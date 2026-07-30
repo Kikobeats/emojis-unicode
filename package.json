@@ -1,6 +1,6 @@
 {
   "name": "emojis-unicode",
-  "description": "Complete list of standard Unicode codes that represent emojis",
+  "description": "Complete list of standard Unicode code points that represent emoji characters.",
   "homepage": "https://github.com/Kikobeats/emojis-unicode",
   "version": "1.0.1",
   "main": "./index.js",
@@ -9,14 +9,24 @@
     "email": "josefrancisco.verdu@gmail.com",
     "url": "https://github.com/Kikobeats"
   },
-  "repository": "Kikobeats/emojis-unicode",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kikobeats/emojis-unicode.git"
+  },
   "bugs": {
     "url": "https://github.com/Kikobeats/emojis-unicode/issues"
   },
   "keywords": [
     "emoji",
-    "keywords",
-    "unicode"
+    "unicode",
+    "codepoints",
+    "list",
+    "standard",
+    "characters",
+    "symbols",
+    "dataset",
+    "utf8",
+    "emoticon"
   ],
   "devDependencies": {
     "acho": "*",
